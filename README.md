@@ -1,5 +1,7 @@
 # Resume Ranking Project
 
+loom rec link : https://www.loom.com/share/8b7dd359306d41e78e6ac91701495fb0?sid=9a4d53e5-0835-471f-92ec-f4e9b99d1df4
+
 This project consists of two FastAPI applications that work together to automate candidate evaluation using GPT-4:
 
 1. **Job Ranking Criteria Extraction API (`extract.py`)**  
